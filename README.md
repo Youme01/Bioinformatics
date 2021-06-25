@@ -1,2 +1,2 @@
 # Bioinformatics
-Completion of Drug Discovery
+Completion of Drug Discovery on herg blockers
